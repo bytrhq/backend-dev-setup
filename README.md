@@ -6,9 +6,9 @@
 ## Guide to Setting Up a Development Environment on Windows
    This guide will walk you through the steps of setting up a development environment on your Windows machine, including the installation of Node.js, NPM, VSCode, Git Bash, and configuring Git and GitHub.
 
-[Installing NodeJS & NPM](https://www.notion.so/Installing-NodeJS-NPM-0a3c86e5dab245c19a428858733d0b43?pvs=21)
-[Installing VSCode & Extensions](https://www.notion.so/Installing-VSCode-Extensions-b5d3164b5b864eef9e5895e96570ef9f?pvs=21)
-[Installing Git Bash](https://www.notion.so/Installing-Git-Bash-b0b6fe6d730b45f194bf88709fe4a87c?pvs=21)
+- [Installing NodeJS & NPM](https://www.notion.so/Installing-NodeJS-NPM-0a3c86e5dab245c19a428858733d0b43?pvs=21)
+- [Installing VSCode & Extensions](https://www.notion.so/Installing-VSCode-Extensions-b5d3164b5b864eef9e5895e96570ef9f?pvs=21)
+- [Installing Git Bash](https://www.notion.so/Installing-Git-Bash-b0b6fe6d730b45f194bf88709fe4a87c?pvs=21)
 
 
 ## Table of Contents
