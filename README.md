@@ -13,7 +13,7 @@
 
 ## Table of Contents
 
-1. [NodeJS & NPM Installation](#1-installing-nodejs--npm)
+1. [NodeJS & NPM Installation](#1-nodejs--npm-installation)
 2. [Installing VSCode & Extensions](#2-installing-vscode--extensions)
    - [2.1 Extension Installation and Their Usage](#21-extension-installation-and-their-usage)
    - [2.2 Enable Bracket Pair Colorization](#22-enable-bracket-pair-colorization)
