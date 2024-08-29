@@ -13,7 +13,7 @@
 
 ## Table of Contents
 
-1. [Installing Node.js & NPM](#1-installing-nodejs--npm)
+1. [NodeJS & NPM Installation](#1-installing-nodejs--npm)
 2. [Installing VSCode & Extensions](#2-installing-vscode--extensions)
    - [2.1 Extension Installation and Their Usage](#21-extension-installation-and-their-usage)
    - [2.2 Enable Bracket Pair Colorization](#22-enable-bracket-pair-colorization)
@@ -23,7 +23,7 @@
    - [4.2 Connecting Git to GitHub](#42-connecting-git-to-github)
 
 
-## 1. Installing Node.js & NPM
+## 1. NodeJS & NPM Installation
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. NPM (Node Package Manager) comes bundled with Node.js and is used to install Node.js packages.
 
