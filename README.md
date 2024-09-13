@@ -1,3 +1,6 @@
+
+![backend-dev-setup](https://github.com/user-attachments/assets/e53e9b78-4e29-49da-bb41-09b20ba5bfba)
+
 # Tooling and Environment Setup
   This guide provides step-by-step instructions for setting up a development environment on a Windows machine. It includes the installation of Node.js, NPM, Visual Studio Code (VSCode), Git Bash, and configuration of Git and GitHub.
 
